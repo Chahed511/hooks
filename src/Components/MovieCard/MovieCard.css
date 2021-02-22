@@ -1,0 +1,26 @@
+.movieCard {
+  width: 15rem;
+  background-color: black;
+  color: white;
+  margin: 1%;
+  border: 1px solid white;
+}
+
+.movieImg {
+  width: 97%;
+  margin: 62px 0 10px 4px;
+  border-bottom: white solid 0.5px;
+}
+
+.movieTitle {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+.addMovieBtn {
+  cursor: pointer;
+  font-size: 50px;
+  margin: 75% 0;
+}
